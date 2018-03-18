@@ -1,0 +1,3 @@
+[submodule "MoogLadders"]
+	path = MoogLadders
+	url = https://github.com/ddiakopoulos/MoogLadders.git
